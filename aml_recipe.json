@@ -1,0 +1,7 @@
+{
+    "outputs": [
+        "quantile_bin(ALL_NUMERIC,50)",
+        "ALL_CATEGORICAL",
+        "ALL_BINARY"
+    ]
+}
